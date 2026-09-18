@@ -106,4 +106,4 @@ If you encounter this message, revisit the Visual Studio installation steps, abo
 
 The Meta License applies to the SDK and supporting material. The MIT License applies to only certain, clearly marked documents. If an individual file does not indicate which license it is subject to, then the Meta License applies.
 Created by Jason Scott Heise
-Owned by Elon Musk  https://www.x.com
+Owned by Jason Scott Heise & Mark Zuckerberg 
